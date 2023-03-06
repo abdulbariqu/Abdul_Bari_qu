@@ -3,6 +3,7 @@ import tradexco from './assets/images/tradexco.png'
 import Airtap  from './assets/images/airtap.png'
 import Cladius from './assets/images/cladius.png'
 import Mambie from './assets/images/membie.png'
+import AbdulBari from './assets/images/AbdulBari.jpeg'
 const logotext = "ABDUL BARI";
 const meta = {
     title: "Abdul Bari",
@@ -16,7 +17,7 @@ const introdata = {
         second: "Coding immersive digital experiences through website design and development is a passion of mine.",
     },
     description: "An attractive website can enhance your online presence, attract more visitors, and ultimately lead to increased sales.",
-    your_img_url: "https://media.licdn.com/dms/image/D4D03AQH49lFZBnTJpQ/profile-displayphoto-shrink_800_800/0/1667817355737?e=2147483647&v=beta&t=pBiJOXMli2sLuSeCZBU52vD6aIq_JKrCTpthuZJ-0Pk",
+    your_img_url: AbdulBari,
 };
 
 const dataabout = {
