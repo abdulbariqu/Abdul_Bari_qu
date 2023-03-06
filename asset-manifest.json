@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abdulbariqu/Abdul_Bari_qu.git/static/css/main.507a3381.css",
+    "main.js": "/abdulbariqu/Abdul_Bari_qu.git/static/js/main.c2a7b882.js",
+    "static/media/cladius.png": "/abdulbariqu/Abdul_Bari_qu.git/static/media/cladius.0f52904c1bf096dcb1b5.png",
+    "static/media/membie.png": "/abdulbariqu/Abdul_Bari_qu.git/static/media/membie.a992402ffd6164dd8633.png",
+    "static/media/tradexco.png": "/abdulbariqu/Abdul_Bari_qu.git/static/media/tradexco.5ea86319e9df2794d4ef.png",
+    "static/media/airtap.png": "/abdulbariqu/Abdul_Bari_qu.git/static/media/airtap.303c6f6280b95046c601.png",
+    "static/media/Micahguru.png": "/abdulbariqu/Abdul_Bari_qu.git/static/media/Micahguru.37c34bae64dee87d88f0.png",
+    "index.html": "/abdulbariqu/Abdul_Bari_qu.git/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.c2a7b882.js"
+  ]
+}
